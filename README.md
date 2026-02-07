@@ -1,2 +1,7 @@
-Assessment-1 processes FNOL insurance documents.
-It extracts basic claim information and routes claims based on predefined rules using Python.
+# Insurance Claims Assessment
+
+This repository contains:
+- Assessment 1: FNOL claim processing Python script
+- Assessment 2: System design and explanation document
+
+Tech Stack: Python
